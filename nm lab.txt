@@ -1,0 +1,109 @@
+input:
+a = input('Input A : ');
+a=input('')
+b=input('')
+cos(a)+cos(b)
+a=input('',"s")[string]
+
+array output:
+a=[3,1,2]
+a(3)
+ans=2
+
+b=1:5
+printing an vector with duference 1
+1,2,3,4,5
+
+b=2:0.5:5(2 thaka 5 porjonto 0.5 diference er ja ja asa sob print korba)
+2.0000    2.5000    3.0000    3.5000    4.0000    4.5000    5.0000
+
+linspace(1,5,9)
+1 thaka suru kora 5 porjonto sob gola value ke 9 ta colum a vag korba
+1.0000   1.5000   2.0000   2.5000   3.0000   3.5000   4.0000   4.5000   5.0000
+
+array asaining:
+a=[3,1,2]
+a(6)=6
+
+coluum vector:
+a=[1;2;3]
+ 1
+ 2
+ 3
+
+a[1]=1[output]
+
+marix:
+a=[1 1;2 2;3 3.3]                                                                                                                                                                                 
+1.0000   1.0000
+2.0000   2.0000
+3.0000   3.3000
+
+output:
+a=[1 1;2 5;3 3]
+
+Functon:
+function [y] =abc(dc,b)[abc file name]
+  y=dc+b
+end
+
+ y=abc(1,2)[input]
+
+a(2,1)
+   1   1
+   2   5
+   3   3
+ans = 2
+
+a=[1 1;2 5;3 3]
+a([1,2],1)(1,2 number row er first colum er value gola dakhar jonno)
+
+a=[1 1;2 5;3 3]
+a(1,[1,2])(1 number rower sob value dakhar jonno)
+
+Identity matrix:
+eye(3,3)[korno 1 thakba]
+
+ones(3,3)[sob gola te 1 thakba]
+rand(3)[sob gola te random number thakba]
+
+converting 1 row vactor to colum vector
+reshape(a,3,4)
+
+jora lagano:
+
+h=[c:d]
+
+if else:
+x=6;
+if(x>10)
+  disp("biG")
+elseif(x>5)
+  disp("MIDIUM")
+else
+  disp("LOW")
+end  
+
+a=[1,2,3];
+b=1;
+if any(b>1)
+  disp(1)
+else
+  disp("hi")
+end
+
+for loop:
+for i=1:2:5
+  disp(i)
+end
+1=koto thaka suru hoba
+2=koto kora increment hoba
+5=koto porjonto loop cholba
+
+while loop:
+i=1
+while i<=5
+  disp(i)
+  i++;
+end
+
